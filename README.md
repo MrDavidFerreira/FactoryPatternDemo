@@ -1,5 +1,7 @@
 # FactoryPatternDemo
 
+<img src="https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg"/> 
+
 ### English
 A simple demonstration of the Factory pattern. 
 
