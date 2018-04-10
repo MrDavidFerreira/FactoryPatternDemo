@@ -9,8 +9,8 @@ In Factory pattern, we create object without exposing the creation logic to the 
 ### Spanish
 Una simple demostración del patrón Factory.
 
-El patrón Factory es uno de los patrones de diseño más usados. Este tipo de patrón de diseño viene del patrón creacional ya que este patrón proporciona una de las mejores maneras de crear un objeto.
+El patrón Factory es uno de los patrones de diseño más usados. Este tipo de patrón de diseño viene del patrón creacional, ya que este patrón proporciona una de las mejores maneras de crear un objeto.
 En el patrón Factory, se crea un objeto sin exponen la lógica de creación al cliente y se hace referencia al objeto recién creado utilizando una interfaz común.
 
-Information source / Fuente de Inforamción:
+Information source / Fuente de Información:
 https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
